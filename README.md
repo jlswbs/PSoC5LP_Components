@@ -2,5 +2,6 @@
 
 - Gordon Osc - Gordon-Smith sin/cos oscillator
 - FlipExp Osc - Flipped exponential saw wave oscillator
-- HardSync Osc - Two synchronized saw wave oscillators
+- HardSync Osc - Two synchronized saw wave oscillator
+- Glitch Osc - IIR filter based glitch oscillator
 
