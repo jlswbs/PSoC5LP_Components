@@ -5,4 +5,5 @@
 - HardSync Osc - Two synchronized saw wave oscillator
 - Glitch Osc - IIR filter based glitch oscillator
 - ResoFM Osc - Two pass IIR filter FM like oscillator
+- KS8 Osc - 8 stages like karplus-strong oscillator
 
