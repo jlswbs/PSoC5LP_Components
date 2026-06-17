@@ -7,4 +7,5 @@
 - ResoFM Osc - Two pass IIR filter FM like oscillator
 - KS8 Osc - 8 stages like karplus-strong oscillator
 - KS16 Osc - 16 stages like karplus-strong oscillator
+- Reso Osc - IIR filter based resonant oscillator
 
