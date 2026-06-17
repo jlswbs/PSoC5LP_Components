@@ -10,4 +10,4 @@
 - Reso Osc - IIR filter based resonant oscillator
 - Reso2 Osc - IIR filter based resonant gain oscillator
 - KS Perc - Karplus-Strong based percussion
-- Feedback Osc - Feedback drone oscillator
+- Feedback Osc - Feedback drone IIR oscillator
