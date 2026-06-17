@@ -8,4 +8,4 @@
 - KS8 Osc - 8 stages like karplus-strong oscillator
 - KS16 Osc - 16 stages like karplus-strong oscillator
 - Reso Osc - IIR filter based resonant oscillator
-
+- Reso2 Osc - IIR filter based resonant gain oscillator
