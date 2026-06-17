@@ -9,3 +9,4 @@
 - KS16 Osc - 16 stages like karplus-strong oscillator
 - Reso Osc - IIR filter based resonant oscillator
 - Reso2 Osc - IIR filter based resonant gain oscillator
+- KS Perc - Karplus-Strong based percussion
