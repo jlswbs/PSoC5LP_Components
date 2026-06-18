@@ -12,3 +12,4 @@
 - KS Perc - Karplus-Strong based percussion
 - Feedback Osc - Feedback drone IIR oscillator
 - Tent Map - Chaotic sequencer based Tent map
+- Mix PDM - Two channels mixer with PDM DAC
