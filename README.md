@@ -11,3 +11,4 @@
 - Reso2 Osc - IIR filter based resonant gain oscillator
 - KS Perc - Karplus-Strong based percussion
 - Feedback Osc - Feedback drone IIR oscillator
+- Tent Map - Chaotic sequencer based Tent map
