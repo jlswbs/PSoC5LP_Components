@@ -11,5 +11,6 @@
 - Reso2 Osc - IIR filter based resonant gain oscillator
 - KS Perc - Karplus-Strong based percussion
 - Feedback Osc - Feedback drone IIR oscillator
+- Rhomb Osc - Rhombic oscillator
 - Tent Map - Chaotic sequencer based Tent map
 - Mix PDM - Two channels mixer with PDM DAC
