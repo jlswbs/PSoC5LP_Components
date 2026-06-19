@@ -12,5 +12,6 @@
 - KS Perc - Karplus-Strong based percussion
 - Feedback Osc - Feedback drone IIR oscillator
 - Rhomb Osc - Rhombic oscillator
+- Squeeker Osc - Pattern pulse generator and oscillator
 - Tent Map - Chaotic sequencer based Tent map
 - Mix PDM - Two channels mixer with PDM DAC
