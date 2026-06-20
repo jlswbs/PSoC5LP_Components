@@ -13,6 +13,7 @@
 - Feedback Osc - Feedback drone IIR oscillator
 - Rhomb Osc - Rhombic oscillator
 - Shape Osc - Shaped sawtooth oscillator
+- SineFM Osc - Frequency modulated sine oscillator
 - Squeeker Osc - Pattern pulse generator and oscillator
 - Tent Map - Chaotic sequencer based Tent map
 - Mix PDM - Two channels mixer with PDM DAC
