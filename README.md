@@ -12,7 +12,7 @@
 - KS Perc - Karplus-Strong based percussion
 - Feedback Osc - Feedback drone IIR oscillator
 - Rhomb Osc - Rhombic oscillator
-- Shape Osc - Shaped sawtooth oscillator
+- Shape Osc - Waveshape oscillator
 - SineFM Osc - Frequency modulated sine oscillator
 - FeedFM Osc - Feedback FM sine oscillator
 - Squeeker Osc - Pattern pulse generator and oscillator
