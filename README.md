@@ -14,6 +14,7 @@
 - Rhomb Osc - Rhombic oscillator
 - Shape Osc - Shaped sawtooth oscillator
 - SineFM Osc - Frequency modulated sine oscillator
+- FeedFM Osc - Feedback FM sine oscillator
 - Squeeker Osc - Pattern pulse generator and oscillator
 - 
 - Tent Map - Chaotic sequencer based Tent map
