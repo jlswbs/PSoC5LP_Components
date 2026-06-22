@@ -27,3 +27,4 @@
 - DAC_SDF - Filtered first order sigma-delta modulator
 - DAC_PDM - Pulse density modulator
 - Mix_PDM - Two channels mixer with PDM
+- SD_Decimator - Sigma delta sync1 decimator
