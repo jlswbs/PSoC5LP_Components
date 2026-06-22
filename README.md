@@ -24,5 +24,6 @@
 - DAC_PWM - Pulse width modulator DAC
 - DAC_BAM - Bit angle modulator DAC
 - DAC_SD1 - First order sigma-delta modulator DAC
+- DAC_SDF - Filtered first order sigma-delta modulator DAC
 - DAC_PDM - Pulse density modulator DAC
 - Mix_PDM - Two channels mixer with PDM DAC
