@@ -20,5 +20,6 @@
 - Squeeker_Osc - Pattern pulse generator and oscillator
 - 
 - Tent_Map - Chaotic sequencer based Tent map
-- 
+
+- DAC_PDM - First order delta-sigma PDM DAC
 - Mix_PDM - Two channels mixer with PDM DAC
