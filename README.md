@@ -13,6 +13,7 @@
 - Feedback Osc - Feedback drone IIR oscillator
 - Rhomb Osc - Rhombic oscillator
 - Shape Osc - Waveshape oscillator
+- Sine32 Osc - 32LUT sine oscillator
 - SineFM Osc - Frequency modulated sine oscillator
 - FeedFM Osc - Feedback FM sine oscillator
 - Squeeker Osc - Pattern pulse generator and oscillator
