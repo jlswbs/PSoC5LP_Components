@@ -21,9 +21,9 @@
 - 
 - Tent_Map - Chaotic sequencer based Tent map
 -
-- DAC_PWM - Pulse width modulator DAC
-- DAC_BAM - Bit angle modulator DAC
-- DAC_SD1 - First order sigma-delta modulator DAC
-- DAC_SDF - Filtered first order sigma-delta modulator DAC
-- DAC_PDM - Pulse density modulator DAC
-- Mix_PDM - Two channels mixer with PDM DAC
+- DAC_PWM - Pulse width modulator
+- DAC_BAM - Bit angle modulator
+- DAC_SD1 - First order sigma-delta modulator
+- DAC_SDF - Filtered first order sigma-delta modulator
+- DAC_PDM - Pulse density modulator
+- Mix_PDM - Two channels mixer with PDM
