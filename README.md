@@ -1,6 +1,6 @@
 # PSoC5LP UDB components for 8bit audio
 
-- Gordon Osc - Gordon-Smith sin/cos oscillator
+- Gordon_Osc - Gordon-Smith sin/cos oscillator
 - FlipExp Osc - Flipped exponential saw wave oscillator
 - HardSync Osc - Two synchronized saw wave oscillator
 - Glitch Osc - IIR filter based glitch oscillator
@@ -14,6 +14,7 @@
 - Rhomb Osc - Rhombic oscillator
 - Shape Osc - Waveshape oscillator
 - Sine32 Osc - 32LUT sine oscillator
+- Sine64 Osc - 64LUT sine oscillator
 - SineFM Osc - Frequency modulated sine oscillator
 - FeedFM Osc - Feedback FM sine oscillator
 - Squeeker Osc - Pattern pulse generator and oscillator
