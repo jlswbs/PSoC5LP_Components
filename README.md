@@ -1,24 +1,24 @@
 # PSoC5LP UDB components for 8bit audio
 
 - Gordon_Osc - Gordon-Smith sin/cos oscillator
-- FlipExp Osc - Flipped exponential saw wave oscillator
-- HardSync Osc - Two synchronized saw wave oscillator
-- Glitch Osc - IIR filter based glitch oscillator
-- ResoFM Osc - Two pass IIR filter FM like oscillator
-- KS8 Osc - 8 stages like karplus-strong oscillator
-- KS16 Osc - 16 stages like karplus-strong oscillator
-- Reso Osc - IIR filter based resonant oscillator
-- Reso2 Osc - IIR filter based resonant gain oscillator
-- KS Perc - Karplus-Strong based percussion
-- Feedback Osc - Feedback drone IIR oscillator
-- Rhomb Osc - Rhombic oscillator
-- Shape Osc - Waveshape oscillator
-- Sine32 Osc - 32LUT sine oscillator
-- Sine64 Osc - 64LUT sine oscillator
-- SineFM Osc - Frequency modulated sine oscillator
-- FeedFM Osc - Feedback FM sine oscillator
-- Squeeker Osc - Pattern pulse generator and oscillator
+- FlipExp_Osc - Flipped exponential saw wave oscillator
+- HardSync_Osc - Two synchronized saw wave oscillator
+- Glitch_Osc - IIR filter based glitch oscillator
+- ResoFM_Osc - Two pass IIR filter FM like oscillator
+- KS8_Osc - 8 stages like karplus-strong oscillator
+- KS16_Osc - 16 stages like karplus-strong oscillator
+- Reso_Osc - IIR filter based resonant oscillator
+- Reso2_Osc - IIR filter based resonant gain oscillator
+- KS_Perc - Karplus-Strong based percussion
+- Feedback_Osc - Feedback drone IIR oscillator
+- Rhomb_Osc - Rhombic oscillator
+- Shape_Osc - Waveshape oscillator
+- Sine32_Osc - 32LUT sine oscillator
+- Sine64_Osc - 64LUT sine oscillator
+- SineFM_Osc - Frequency modulated sine oscillator
+- FeedFM_Osc - Feedback FM sine oscillator
+- Squeeker_Osc - Pattern pulse generator and oscillator
 - 
-- Tent Map - Chaotic sequencer based Tent map
+- Tent_Map - Chaotic sequencer based Tent map
 - 
-- Mix PDM - Two channels mixer with PDM DAC
+- Mix_PDM - Two channels mixer with PDM DAC
