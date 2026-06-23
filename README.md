@@ -21,6 +21,7 @@
 - TRI_Osc - Triangle wave oscillator
 - SAW_Osc - Sawtooth wave oscillator
 - SQU_Osc - Square wave oscillator
+- PWM_Osc - Pulse width modulation oscillator
 - 
 - Tent_Map - Chaotic sequencer based Tent map
 -
