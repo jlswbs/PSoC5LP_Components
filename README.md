@@ -22,6 +22,7 @@
 - SAW_Osc - Sawtooth wave oscillator
 - SQU_Osc - Square wave oscillator
 - PWM_Osc - Pulse width modulation oscillator
+- Noise_Osc - LFSR noise oscillator
 - 
 - Tent_Map - Chaotic sequencer based Tent map
 -
