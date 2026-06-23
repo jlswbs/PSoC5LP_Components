@@ -18,6 +18,7 @@
 - SineFM_Osc - Frequency modulated sine oscillator
 - FeedFM_Osc - Feedback FM sine oscillator
 - Squeeker_Osc - Pattern pulse generator and oscillator
+- TRI_Osc - Triangle wave oscillator
 - 
 - Tent_Map - Chaotic sequencer based Tent map
 -
