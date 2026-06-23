@@ -20,6 +20,7 @@
 - Squeeker_Osc - Pattern pulse generator and oscillator
 - TRI_Osc - Triangle wave oscillator
 - SAW_Osc - Sawtooth wave oscillator
+- SQU_Osc - Square wave oscillator
 - 
 - Tent_Map - Chaotic sequencer based Tent map
 -
