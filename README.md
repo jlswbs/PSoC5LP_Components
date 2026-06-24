@@ -25,6 +25,7 @@
 - Noise_Osc - LFSR noise oscillator
 - 
 - Tent_Map - Chaotic sequencer based Tent map
+- Wolfram_CA - Wolfram 1D cellular automaton
 -
 - DAC_PWM - Pulse width modulator
 - DAC_BAM - Bit angle modulator
